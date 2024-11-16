@@ -8,7 +8,7 @@ package SEEExam;
 
 public class Sum {
 	
-  int a,b;
+  int a,b,c;
  
 	public int getA() {
 	return a;
